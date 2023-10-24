@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marta Ferraris!</h1>
 <h3 align="center">A frontend developer from the Alps of Italy</h3>
-<p align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://komarev.com/ghpvc/?username=martaferraris&label=Profile%20views&color=0e75b6&style=flat" alt="martaferraris" /> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> <img src="https://komarev.com/ghpvc/?username=martaferraris&label=Profile%20views&color=0e75b6&style=flat" alt="martaferraris" /> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"/> </p>
 
 <h3> 👩🏻‍🦰•💻 <i>About Me </i></h3>
 
