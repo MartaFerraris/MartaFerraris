@@ -28,6 +28,8 @@
 
 <img align="left" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
-<a href="https://linkedin.com/in/marta ferraris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marta ferraris" height="30" width="40" /></a>
-<a href="https://fb.com/marta ferraris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marta ferraris" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/marta ferraris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marta ferraris" height="30" width="40" /></a>
+  <a href="https://fb.com/marta ferraris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marta ferraris" height="30" width="40" /></a>
+  <a href="https://instagram.com/https://www.instagram.com/martaferrarisart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/martaferrarisart/" height="30" width="40" /></a>
+  <a href="https://twitter.com/@marta_fer_art" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@marta_fer_art" height="30" width="40" /></a>
 </p>
