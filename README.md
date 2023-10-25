@@ -26,8 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martaferraris&show_icons=true&locale=en" alt="martaferraris" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martaferraris&" alt="martaferraris" /></p>
-
 <img align="left" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"><h3 align="left"><i>Connect with me:</i></h3>
 <p align="left">
 <a href="https://linkedin.com/in/marta ferraris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marta ferraris" height="30" width="40" /></a>
